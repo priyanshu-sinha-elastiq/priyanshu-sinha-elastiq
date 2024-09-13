@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @priyanshu-sinha-elastiq
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning GenAI 
-- 💞️ I’m looking to collaborate on buliding tomorrow with GenAI Apps
+- 🌱 I’m currently Exploring GenAI 
+- 💞️ I’m looking to collaborate on buliding apps with AI Agent
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Data is the real gold and I am mining it!
 
